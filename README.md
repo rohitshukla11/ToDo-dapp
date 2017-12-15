@@ -4,7 +4,7 @@ ToDo dapp Demo using Ethereum blockchain.
 # Installation
 1. Node.js(Version > 6.0)
 2. Truffle 
-   $ npm install -g truffle
+   - *$ npm install -g truffle*
 3. TestRPC
    $ npm install -g ethereumjs-testrpc
 
