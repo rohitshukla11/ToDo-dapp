@@ -16,8 +16,8 @@ ToDo dapp Demo using Ethereum blockchain.
 3. Compile the contracts
     - *$ truffle compile*
 4. Deploy contracts to the Ethereum blockchain
-    - *$ truffle migrate
+    - *$ truffle migrate*
 5. Running the Dapp
-    - *$ npm run dev
+    - *$ npm run dev*
 6. Open your browser and enter the following:
      - http://localhost:8080/
