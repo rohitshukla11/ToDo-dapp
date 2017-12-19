@@ -16,7 +16,7 @@ ToDo dapp Demo using Ethereum blockchain.
 3. Compile the contracts
     - *$ truffle compile*
 4. Deploy contracts to the Ethereum blockchain
-    - *$ truffle migrate --network <option>*
+    - *$ truffle migrate --network option*
    - Use following values in place of options:
    - development - for local test network
    - ropsten - for Ropsten test network
